@@ -76,6 +76,7 @@ textProbability<br>
 ├── Bayes Theorem<br>
 │<br>
 └── Probability Distributions<br>
+
 🧪 Example: Bayes Theorem (Concept → Application)
 **Problem Idea<br>**
 Given a medical test with known accuracy, find the probability that a person actually has a disease after testing positive.<br>
@@ -98,13 +99,14 @@ textpython-fundamentals-and-probability/<br>
 └── README.md<br>
 
 ## 🎯 Purpose & Vision
-This repository is designed to:
-- Build rock-solid programming fundamentals.
-- Strengthen logical & analytical thinking.
-- Prepare a strong base for:
-- Data Science.
-- Machine Learning.
-- AI & Analytics.
+**This repository is designed to:**
+- Build rock-solid programming fundamentals.<br>
+- Strengthen logical & analytical thinking.<br>
+
+**- Prepare a strong base for:**
+- Data Science.<br>
+- Machine Learning.<br>
+- AI & Analytics.<br>
 Act as a revision handbook and learning proof.<br>
 
 ## 🚀 How to Use This Repository
